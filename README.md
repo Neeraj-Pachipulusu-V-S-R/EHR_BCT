@@ -2,19 +2,21 @@
 
 Please find the details of our project group below:
 
-Project Title: Healthcare Management system using Ethereum Blockchain
-
-Team Members: 
-
-Name	Email ID
-Venkata Naveen Kumar Udumula	udumv01@pfw.edu
-Rakshya Aryal	aryar01@pfw.edu
-Deepika Rajashree Penuballi 	penud01@pfw.edu
-Roopa Tumu	tumar01@pfw.edu
-Akshitha Babburi 	babba01@pfw.edu
+Project Title: **Healthcare Management system using Ethereum Blockchain**
 
 
-Project Abstract:
+**Team Members:**
+
+Name | Email ID |
+--- | --- |
+Venkata Naveen Kumar Udumula | udumv01@pfw.edu |
+Rakshya Aryal	               | aryar01@pfw.edu |
+Deepika Rajashree Penuballi  | penud01@pfw.edu |
+Roopa Tumu	                 | tumar01@pfw.edu |
+Akshitha Babburi 	           | babba01@pfw.edu | 
+
+
+**Project Abstract:**
 
 This project aims to maintain patient medical records on a blockchain. 
 The DApp architecture offers a patient-centric system where the patient 
